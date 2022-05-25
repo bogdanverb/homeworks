@@ -1,0 +1,6 @@
+F:\Dropbox\ЕТІ\Програмування\Лабораторні роботы\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
+S:\КН-21\Програмування\лабораторні роботи\teacher\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
+E:\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
+D:\Проги\C++\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
+C:\Users\S0K0L\Desktop\nedorfbotka\x64\Debug\ConsoleApplication2.exe
+C:\Users\S0K0L\Desktop\homw\x64\Debug\ConsoleApplication2.exe
